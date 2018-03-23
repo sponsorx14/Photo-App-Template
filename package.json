@@ -1,0 +1,24 @@
+{
+  "name": "Modul3.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sponsorx14/Photo-App-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sponsorx14/Photo-App-Template/issues"
+  },
+  "homepage": "https://github.com/sponsorx14/Photo-App-Template#readme",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}
